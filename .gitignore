@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+.vemv
+.env
+db
+node_modules
+.env.example
