@@ -1,6 +1,6 @@
 __pycache__
 *.pyc
-.vemv
+.venv
 .env
 db
 node_modules
